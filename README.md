@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jwilsonar/jwilsonar/output/snake.svg" alt="Snake animation" />
+![snake animation](https://jwilsonar.github.io/jwilsonar/snake.svg)
 
 ###
